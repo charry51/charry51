@@ -3,7 +3,7 @@
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base técnica en administración de sistemas. Me encanta moverme entre el desarrollo móvil y el backend.
 
 - 🔭 Actualmente trabajando en proyectos de **Android (Java/Kotlin)** y aprendiendo **iOS (Swift)**.
-- 🌱 Estudiando en **Estech (CESUR)**.
+- 🌱 Estudiando en **Estech /CESUR**.
 - 👯 Busco colaborar en proyectos Open Source o Prácticas FCT.
 - ⚡ Dato curioso: Vengo del mundo del hardware, así que entiendo lo que pasa "bajo el capó".
 
