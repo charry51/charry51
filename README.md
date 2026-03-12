@@ -74,6 +74,15 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 
 ---
 
+### 🏆 Mis Logros Desbloqueados
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=charry51&title=00FFFF&text=ffffff&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="Trofeos de charry51" />
+  </a>
+</p>
+
+---
+
 ### 📈 Mis Estadísticas de Código (WakaTime)
 
 ---
