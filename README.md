@@ -85,3 +85,9 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
     <img src="https://img.shields.io/badge/Portfolio_Web-121212?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" alt="Portfolio">
   </a>
 </p>
+
+---
+### 🐍 Mi Contribución en Código
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charry51/charry51/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
