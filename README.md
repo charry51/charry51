@@ -18,6 +18,12 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 - 👯 **Objetivo:** Busco colaborar en proyectos Open Source o Prácticas FCT en empresas tecnológicas.
 - ⚡ **Dato curioso:** Vengo del mundo del hardware y los sistemas, así que entiendo perfectamente lo que pasa "bajo el capó".
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qikl53ma2jft3rbui8ala4rbc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
+  </a>
+</p>
+
 ---
 
 ### 💻 Lenguajes & Backend
