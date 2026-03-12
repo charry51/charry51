@@ -32,6 +32,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=00FFFF" alt="Linux" height="35" />
 </p>
 
+---
+
 ### 📱 Frontend & Mobile
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=00FFFF" alt="Kotlin" height="35" />
@@ -40,6 +42,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=00FFFF" alt="CSS3" height="35" />
   <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=00FFFF" alt="JavaScript" height="35" />
 </p>
+
+---
 
 ### 🛠 Herramientas, Entornos & Diseño
 <p align="center">
@@ -54,6 +58,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   <img src="https://img.shields.io/badge/Photoshop-121212?style=for-the-badge&logo=adobephotoshop&logoColor=00FFFF" alt="Photoshop" height="35" />
 </p>
 
+---
+
 ### 📫 Conectemos
 <p align="center">
   <a href="https://linkedin.com/in/fcharriel" target="_blank">
@@ -64,6 +70,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   </a>
 </p>
 
+---
 
 ### ⚡ Mis Estadísticas de GitHub
 <p align="center">
@@ -95,12 +102,14 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 ### 📈 Mis Estadísticas de Código (WakaTime)
 
 ---
+
 ### 🐍 Mi Contribución en Código
 <p align="center">
   <img src="https://raw.githubusercontent.com/charry51/charry51/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
+
 ### 📡 Radar de Sistemas
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charry51&label=CONEXIONES%20ENTRANTES&color=00FFFF&label_color=121212&style=for-the-badge" alt="Contador de Visitas" />
