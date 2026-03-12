@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E_+Hola,+soy+Fran!+👋;%3E_+Compilando+c%C3%B3digo+en+Kotlin...;%3E_+Desplegando+API+en+Laravel...;%3E_+Administrando+servidores+Linux..." alt="Consola SysAdmin" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E_+Hola,+soy+Fran!;%3E_+Compilando+codigo+en+Kotlin...;%3E_+Desplegando+API+en+Laravel...;%3E_+Administrando+servidores+Linux..." alt="Consola SysAdmin" />
 </p>
 
 ```json
