@@ -90,10 +90,10 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 
 ---
 
-### 🏆 Mis Logros Desbloqueados
+### 🔥 Mi Racha de Código
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=charry51&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Trofeos de charry51" />
+  <a href="https://github.com/charry51">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charry51&background=121212&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Racha de charry51" />
   </a>
 </p>
 
