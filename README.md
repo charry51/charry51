@@ -1,23 +1,79 @@
-### Hola, soy Fran! 👋
+### 👨‍💻 System.out.println("Hola, soy Fran!");
+
+```json
+{
+  "name": "Francisco Charriel",
+  "role": "Multiplatform Developer (DAM) & SysAdmin (SMR)",
+  "education": "Estech / CESUR",
+  "status": "Looking for FCT Practices & Open Source collabs 🚀"
+}
+```
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base técnica en administración de sistemas. Me encanta moverme entre el desarrollo móvil y el backend.
 
-- 🔭 Actualmente desarrollando un ecosistema completo: una **API REST (Laravel/MySQL)** que alimenta un cliente web (**HTML/CSS/JS**) y futuras apps nativas en **Android (Kotlin)** e **iOS (Swift/Xcode)**.
-- 🌱 Estudiando en **Estech / CESUR**.
-- 👯 Busco colaborar en proyectos Open Source o Prácticas FCT.
-- ⚡ Dato curioso: Vengo del mundo del hardware, así que entiendo lo que pasa "bajo el capó".
+- 🔭 **Actualmente:** Desarrollando un ecosistema completo: una **API REST (Laravel/MySQL)** que alimenta un cliente web (**HTML/CSS/JS**) y futuras apps nativas en **Android (Kotlin)** e **iOS (Swift/Xcode)**.
+- 🌱 **Formación:** Estudiando en **Estech / CESUR**.
+- 👯 **Objetivo:** Busco colaborar en proyectos Open Source o Prácticas FCT en empresas tecnológicas.
+- ⚡ **Dato curioso:** Vengo del mundo del hardware y los sistemas, así que entiendo perfectamente lo que pasa "bajo el capó".
 
-### 💻 Tech Stack & Tools
+---
 
+### 💻 Lenguajes & Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-121212?style=for-the-badge&logo=laravel&logoColor=00FFFF" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=00FFFF" alt="PHP" />
-  <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=00FFFF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Swift-121212?style=for-the-badge&logo=swift&logoColor=00FFFF" alt="Swift" />
-  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=00FFFF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=00FFFF" alt="Linux" />
+  <img src="https://img.shields.io/badge/Laravel-121212?style=for-the-badge&logo=laravel&logoColor=00FFFF" alt="Laravel" height="35" />
+  <img src="https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=00FFFF" alt="PHP" height="35" />
+  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=java&logoColor=00FFFF" alt="Java" height="35" />
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=00FFFF" alt="Python" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=00FFFF" alt="MySQL" height="35" />
+  <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=00FFFF" alt="Linux" height="35" />
 </p>
 
-<br>
+### 📱 Frontend & Mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=00FFFF" alt="Kotlin" height="35" />
+  <img src="https://img.shields.io/badge/Swift-121212?style=for-the-badge&logo=swift&logoColor=00FFFF" alt="Swift" height="35" />
+  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=00FFFF" alt="HTML5" height="35" />
+  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=00FFFF" alt="CSS3" height="35" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=00FFFF" alt="JavaScript" height="35" />
+</p>
 
-📫 **Contact:** [Linkedin](https://linkedin.com/in/fcharriel)
+### 🛠 Herramientas, Entornos & Diseño
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=00FFFF" alt="Git" height="35" />
+  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub" height="35" />
+  <img src="https://img.shields.io/badge/Visual_Studio-121212?style=for-the-badge&logo=visualstudio&logoColor=00FFFF" alt="Visual Studio" height="35" />
+  <img src="https://img.shields.io/badge/Android_Studio-121212?style=for-the-badge&logo=androidstudio&logoColor=00FFFF" alt="Android Studio" height="35" />
+  <img src="https://img.shields.io/badge/Xcode-121212?style=for-the-badge&logo=xcode&logoColor=00FFFF" alt="Xcode" height="35" />
+  <img src="https://img.shields.io/badge/Antigravity-121212?style=for-the-badge&logoColor=00FFFF" alt="Antigravity" height="35" />
+  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=00FFFF" alt="Figma" height="35" />
+  <img src="https://img.shields.io/badge/Canva-121212?style=for-the-badge&logo=canva&logoColor=00FFFF" alt="Canva" height="35" />
+  <img src="https://img.shields.io/badge/Photoshop-121212?style=for-the-badge&logo=adobephotoshop&logoColor=00FFFF" alt="Photoshop" height="35" />
+</p>
+
+---
+
+### ⚡ Mis Estadísticas de GitHub
+<p align="center">
+  <a href="https://github.com/charry51">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charry51&show_icons=true&bg_color=121212&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&border_color=30363d&hide_border=true" alt="Estadísticas de charry51" />
+  </a>
+  <a href="https://github.com/charry51">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charry51&layout=compact&bg_color=121212&title_color=00FFFF&text_color=ffffff&border_color=30363d&hide_border=true" alt="Lenguajes más usados" />
+  </a>
+</p>
+
+---
+
+### 📈 Mis Estadísticas de Código (WakaTime)
+
+---
+
+### 📫 Conectemos
+<p align="center">
+  <a href="https://linkedin.com/in/fcharriel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn">
+  </a>
+  <a href="https://fcharriel.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Web-121212?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" alt="Portfolio">
+  </a>
+</p>
