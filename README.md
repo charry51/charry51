@@ -18,12 +18,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 - 👯 **Objetivo:** Busco colaborar en proyectos Open Source o Prácticas FCT en empresas tecnológicas.
 - ⚡ **Dato curioso:** Vengo del mundo del hardware y los sistemas, así que entiendo perfectamente lo que pasa "bajo el capó".
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qikl53ma2jft3rbui8ala4rbc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
-  </a>
-</p>
-
 ---
 
 ### 💻 Lenguajes & Backend
@@ -67,6 +61,12 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   </a>
   <a href="https://github.com/charry51">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charry51&layout=compact&bg_color=121212&title_color=00FFFF&text_color=ffffff&border_color=30363d&hide_border=true" alt="Lenguajes más usados" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qikl53ma2jft3rbui8ala4rbc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
   </a>
 </p>
 
