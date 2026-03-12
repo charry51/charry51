@@ -66,7 +66,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qikl53ma2jft3rbui8ala4rbc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qikl53ma2jft3rbui8ala4rbc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
   </a>
 </p>
 
