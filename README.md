@@ -54,7 +54,16 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   <img src="https://img.shields.io/badge/Photoshop-121212?style=for-the-badge&logo=adobephotoshop&logoColor=00FFFF" alt="Photoshop" height="35" />
 </p>
 
----
+### 📫 Conectemos
+<p align="center">
+  <a href="https://linkedin.com/in/fcharriel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn">
+  </a>
+  <a href="https://charry51.github.io/fcharriel.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Web-121212?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" alt="Portfolio">
+  </a>
+</p>
+
 
 ### ⚡ Mis Estadísticas de GitHub
 <p align="center">
@@ -77,25 +86,13 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 ### 🏆 Mis Logros Desbloqueados
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=charry51&title=00FFFF&text=ffffff&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="Trofeos de charry51" />
+    <img src="https://github-profile-trophy.vercel.app/?username=charry51&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Trofeos de charry51" />
   </a>
 </p>
 
 ---
 
 ### 📈 Mis Estadísticas de Código (WakaTime)
-
----
-
-### 📫 Conectemos
-<p align="center">
-  <a href="https://linkedin.com/in/fcharriel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn">
-  </a>
-  <a href="https://charry51.github.io/fcharriel.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Web-121212?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" alt="Portfolio">
-  </a>
-</p>
 
 ---
 ### 🐍 Mi Contribución en Código
