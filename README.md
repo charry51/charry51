@@ -1,9 +1,11 @@
-### 👨‍💻 System.out.println("Hola, soy Fran!");
+### 👨‍💻 System.out.println("Hola, soy Fran! 👋");
 
 ```json
 {
-  "name": "Francisco Charriel",
-  "role": "Multiplatform Developer (DAM) & SysAdmin (SMR)",
+  "name": "Francisco Charriel Romero",
+  "alias": "charry51",
+  "role": "Hybrid Developer (DAM + SMR)",
+  "current_mission": "Building end-to-end full-stack ecosystems",
   "education": "Estech / CESUR",
   "status": "Looking for FCT Practices & Open Source collabs 🚀"
 }
@@ -41,7 +43,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=00FFFF" alt="Git" height="35" />
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub" height="35" />
-  <img src="https://img.shields.io/badge/Visual_Studio-121212?style=for-the-badge&logo=visualstudio&logoColor=00FFFF" alt="Visual Studio" height="35" />
+  <img src="https://img.shields.io/badge/VS_Code-121212?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF" alt="VS Code" height="35" />
   <img src="https://img.shields.io/badge/Android_Studio-121212?style=for-the-badge&logo=androidstudio&logoColor=00FFFF" alt="Android Studio" height="35" />
   <img src="https://img.shields.io/badge/Xcode-121212?style=for-the-badge&logo=xcode&logoColor=00FFFF" alt="Xcode" height="35" />
   <img src="https://img.shields.io/badge/Antigravity-121212?style=for-the-badge&logoColor=00FFFF" alt="Antigravity" height="35" />
@@ -73,7 +75,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
   <a href="https://linkedin.com/in/fcharriel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn">
   </a>
-  <a href="https://fcharriel.github.io/" target="_blank">
+  <a href="https://charry51.github.io/fcharriel.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Web-121212?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" alt="Portfolio">
   </a>
 </p>
