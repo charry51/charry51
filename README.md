@@ -93,3 +93,9 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 <p align="center">
   <img src="https://raw.githubusercontent.com/charry51/charry51/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+### 📡 Radar de Sistemas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charry51&label=CONEXIONES%20ENTRANTES&color=00FFFF&label_color=121212&style=for-the-badge" alt="Contador de Visitas" />
+</p>
