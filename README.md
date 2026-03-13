@@ -99,10 +99,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base 
 
 ---
 
-### 📈 Mis Estadísticas de Código (WakaTime)
-
----
-
 ### 🐍 Mi Contribución en Código
 <p align="center">
   <img src="https://raw.githubusercontent.com/charry51/charry51/output/github-snake-dark.svg" alt="Snake animation" />
